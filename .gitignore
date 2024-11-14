@@ -1,0 +1,10 @@
+*.pyc
+__pycache__/
+*.log
+db.sqlite3
+.env
+node_modules/
+.env
+npm-debug.log
+docker-compose.yml
+*.dockerfile
